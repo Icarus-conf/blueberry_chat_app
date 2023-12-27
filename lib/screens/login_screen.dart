@@ -1,6 +1,6 @@
 import 'package:chat_app/components/rounded_button.dart';
-import 'package:chat_app/constants.dart';
-import 'package:chat_app/constants/colors.dart';
+import 'package:chat_app/components/constants.dart';
+import 'package:chat_app/components/colors.dart';
 import 'package:chat_app/screens/chat_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';

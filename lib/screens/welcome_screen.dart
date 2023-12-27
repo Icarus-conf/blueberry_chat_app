@@ -1,5 +1,5 @@
 import 'package:chat_app/components/rounded_button.dart';
-import 'package:chat_app/constants/colors.dart';
+import 'package:chat_app/components/colors.dart';
 import 'package:chat_app/screens/login_screen.dart';
 import 'package:chat_app/screens/registration_screen.dart';
 import 'package:flutter/material.dart';
